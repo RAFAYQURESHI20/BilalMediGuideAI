@@ -3,7 +3,6 @@ Bilal MediGuide AI – Medical Virtual Assistant
 Bilal MediGuide AI is an advanced, hospital-grade AI chatbot designed for Bilal Hospital. It provides reliable, educational, and general medical guidance for patients and users, helping them understand symptoms, illnesses, preventive care, medications, lifestyle tips, and wellness—all in a safe and professional manner.
 
 Key Features
-
 Symptom & Disease Guidance:
 Explain common symptoms (fever, cough, headache, stomach pain, fatigue, allergies, etc.) and general information about acute and chronic diseases like flu, diabetes, hypertension, asthma, infections, and more.
 
